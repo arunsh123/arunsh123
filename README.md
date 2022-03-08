@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <a href = "https://twitter.com/ArunSha13810"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href ="https://www.facebook.com/profile.php?id=100038746149535"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/official_arun_sh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://discord.com/channels/@me"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
+<a href = "https://discord.com/channels/948572203564298321/949992937146695700"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 </p>
 
 
