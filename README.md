@@ -82,10 +82,10 @@ Here are some ideas to get you started:
 ## Reach Me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/home"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href ="https://www.facebook.com/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/arun-sharma-0867b821a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ArunSha13810"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href ="https://www.facebook.com/profile.php?id=100038746149535"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/official_arun_sh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discord.com/channels/@me"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 </p>
 
